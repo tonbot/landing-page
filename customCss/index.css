@@ -1,0 +1,235 @@
+body{
+    background-color:#fff;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.con1{
+    background-image:url('/slack/img/glass_house.png');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color: green;
+    background-size: cover;
+    padding-bottom: 17%;
+   
+
+}
+.navbar-brand{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size:70px;
+    
+    color: #333333;
+    padding-left:45px;
+}
+.navbar-nav{
+    padding-left:120px;
+}
+.navbar-nav a{
+    color:black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 250;
+    font-size: 18px;
+color: #333333;
+
+}
+.navbar-nav a:hover{
+    color:rgb(73, 30, 129);
+    border-bottom:2px solid orangered;
+}
+.navbar-toggler-icon{
+    color:#333333;
+}
+.new{
+    padding-left:60px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 59px;
+    max-width: 25%;
+    margin-top: 45px;
+}
+.getstarted{
+    margin-left:63px;
+    text-align: center;
+    max-width: 15%;
+    background-color: #333333;
+    color: #fff;
+    font-weight: bold;
+    padding:20px;
+    margin-top:40px;
+    
+}
+.getstarted:hover{
+    border: 1px solid orangered;
+}
+.label{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #C4C4C4;
+    padding-top: 20px;
+
+}
+.container{
+    margin-top: -40px;
+    margin-bottom: 10%;
+}
+.con11 .row{
+    border: 1px solid #575656;
+
+}
+.search{
+    padding-top: 20px;
+    text-align: center;
+    
+}
+.search .fas{
+    font-size:50px;
+    text-align: center;
+}
+.description{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: -17px;
+    
+}
+.img12{
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+.aboutus{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 85px;
+    text-align: center;
+    color: #333333;
+}
+.learnmore{
+    text-align: center;
+    background-color: #333333;
+    color: #fff;
+    font-weight: bold;
+    padding:20px;
+    margin-top:40px;
+}
+.container3{
+    margin-top: -40px;
+    margin-bottom: 10%;
+}
+.carousel-item{
+    max-width: 30%;
+}
+.section4{
+    margin-bottom: 10%;
+}
+.section4 .flex-row{
+    overflow-x: scroll;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.section4 .flex-row::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .section4 .flex-row{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .col-sm-4{
+      max-height: 40%;
+      padding-top: 0px;
+      border-radius: 20px;
+      margin-bottom: 50px;
+      
+  }
+  .img123{
+     height: 350px;
+     margin: 0px;
+     border-radius: 20px;
+  }
+  .price{
+      text-align: right;
+      font-family: Poppins;
+      font-style: normal;
+      font-weight:bold;
+      font-size: 24px;
+      font-style: bold;
+      color: #000000;
+
+  }
+  .icon{
+    text-align:right;
+
+}
+.name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+}
+.location{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    color: #000000;
+    margin-top:-10px;
+
+}
+.col-sm-4:hover{
+    border:1px solid orangered;
+}
+
+.howitworks{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 85px;
+    text-align: center;
+    color: #333333;
+    margin-bottom: 70px;
+}
+
+.sec5col{
+    background: #FDF9F9;
+    text-align: center;
+    padding:40px;
+    margin-right: 60px;
+    
+}
+
+.eval{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.evaltext{
+   
+    text-align: center;
+    
+    padding-top: 20px;
+}
+.sec5{
+    padding-left: 90px;
+}
